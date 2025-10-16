@@ -1,4 +1,4 @@
-# polars_rng
+# [polars-expression-wrapper](https://github.com/miguelmontanez/polars-expression-wrapper)
 
 This package provides Polars expressions for generating random numbers according to various probability distributions (see the full list at the bottom of this page).
 Please open an issue or pull request if there's a distribution you'd like implemented!
@@ -7,10 +7,10 @@ Please open an issue or pull request if there's a distribution you'd like implem
 
 ```bash
 # with pip
-pip install git+https://github.com/alipatti/polars_rng
+pip install git+https://github.com/miguelmontanez/polars-expression-wrapper
 
 # or with uv
-uv add git+https://github.com/alipatti/polars_rng
+uv add git+https://github.com/miguelmontanez/polars-expression-wrapper
 ```
 
 ## Usage
